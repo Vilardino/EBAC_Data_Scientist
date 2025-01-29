@@ -1,0 +1,131 @@
+Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership,Credit Score
+25.0,Female,50000.0,Bachelor's Degree,Single,0,Rented,High
+30.0,Male,100000.0,Master's Degree,Married,2,Owned,High
+35.0,Female,75000.0,Doctorate,Married,1,Owned,High
+40.0,Male,125000.0,High School Diploma,Single,0,Owned,High
+45.0,Female,100000.0,Bachelor's Degree,Married,3,Owned,High
+50.0,Male,150000.0,Master's Degree,Married,0,Owned,High
+26.0,Female,40000.0,Associate's Degree,Single,0,Rented,Average
+31.0,Male,60000.0,Bachelor's Degree,Single,0,Rented,Average
+43.0,Male,80000.0,Master's Degree,Single,0,Owned,High
+48.0,Female,70000.0,Doctorate,Married,1,Owned,High
+53.0,Male,115000.0,Associate's Degree,Married,0,Owned,High
+29.0,Female,25000.0,High School Diploma,Single,0,Rented,Low
+34.0,Male,45000.0,Associate's Degree,Single,0,Rented,Average
+39.0,Female,60000.0,Bachelor's Degree,Married,2,Owned,High
+44.0,Male,75000.0,Master's Degree,Single,0,Owned,High
+49.0,Female,65000.0,Doctorate,Married,1,Owned,High
+25.0,Female,55000.0,Bachelor's Degree,Single,0,Rented,Average
+30.0,Male,105000.0,Master's Degree,Married,2,Owned,High
+35.0,Female,80000.0,Doctorate,Married,1,Owned,High
+40.0,Male,130000.0,High School Diploma,Single,0,Owned,High
+45.0,Female,105000.0,Bachelor's Degree,Married,3,Owned,High
+50.0,Male,155000.0,Master's Degree,Married,0,Owned,High
+26.0,Female,45000.0,Associate's Degree,Single,0,Rented,Average
+31.0,Male,65000.0,Bachelor's Degree,Single,0,Rented,Average
+36.0,Female,85000.0,Master's Degree,Married,2,Owned,High
+41.0,Male,110000.0,Doctorate,Single,0,Owned,High
+46.0,Female,95000.0,High School Diploma,Married,1,Owned,High
+51.0,Male,140000.0,Bachelor's Degree,Married,0,Owned,High
+27.0,Female,37500.0,High School Diploma,Single,0,Rented,Low
+32.0,Male,57500.0,Associate's Degree,Single,0,Rented,Average
+37.0,Female,72500.0,Bachelor's Degree,Married,2,Owned,High
+42.0,Male,100000.0,Master's Degree,Single,0,Owned,High
+47.0,Female,90000.0,Doctorate,Married,1,Owned,High
+52.0,Male,130000.0,High School Diploma,Married,0,Owned,High
+28.0,Female,32500.0,Associate's Degree,Single,0,Rented,Low
+33.0,Male,52500.0,High School Diploma,Single,0,Rented,Average
+38.0,Female,67500.0,Bachelor's Degree,Married,2,Owned,High
+43.0,Male,92500.0,Master's Degree,Single,0,Owned,High
+48.0,Female,82500.0,Doctorate,Married,1,Owned,High
+53.0,Male,122500.0,Associate's Degree,Married,0,Owned,High
+29.0,Female,27500.0,High School Diploma,Single,0,Rented,Low
+34.0,Male,47500.0,Associate's Degree,Single,0,Rented,Average
+39.0,Female,62500.0,Bachelor's Degree,Married,2,Owned,High
+44.0,Male,87500.0,Master's Degree,Single,0,Owned,High
+49.0,Female,77500.0,Doctorate,Married,1,Owned,High
+25.0,Female,57500.0,Bachelor's Degree,Single,0,Rented,Average
+30.0,Male,112500.0,Master's Degree,Married,2,Owned,High
+35.0,Female,85000.0,Doctorate,Married,1,Owned,High
+25.0,Female,60000.0,Bachelor's Degree,Single,0,Rented,Average
+30.0,Male,117500.0,Master's Degree,Married,2,Owned,High
+35.0,Female,90000.0,Doctorate,Married,1,Owned,High
+40.0,Male,142500.0,High School Diploma,Single,0,Owned,High
+45.0,Female,110000.0,Bachelor's Degree,Married,3,Owned,High
+50.0,Male,160000.0,Master's Degree,Married,0,Owned,High
+26.0,Female,47500.0,Associate's Degree,Single,0,Rented,Average
+31.0,Male,67500.0,Bachelor's Degree,Single,0,Rented,Average
+36.0,Female,90000.0,Master's Degree,Married,2,Owned,High
+41.0,Male,115000.0,Doctorate,Single,0,Owned,High
+46.0,Female,97500.0,High School Diploma,Married,1,Owned,High
+51.0,Male,145000.0,Bachelor's Degree,Married,0,Owned,High
+27.0,Female,37500.0,High School Diploma,Single,0,Rented,Low
+32.0,Male,57500.0,Associate's Degree,Single,0,Rented,Average
+37.0,Female,75000.0,Bachelor's Degree,Married,2,Owned,High
+42.0,Male,105000.0,Master's Degree,Single,0,Owned,High
+47.0,Female,95000.0,Doctorate,Married,1,Owned,High
+52.0,Male,135000.0,High School Diploma,Married,0,Owned,High
+28.0,Female,32500.0,Associate's Degree,Single,0,Rented,Low
+33.0,Male,52500.0,High School Diploma,Single,0,Rented,Average
+25.0,Female,62500.0,Bachelor's Degree,Single,0,Rented,Average
+30.0,Male,117500.0,Master's Degree,Married,2,Owned,High
+35.0,Female,90000.0,Doctorate,Married,1,Owned,High
+40.0,Male,142500.0,High School Diploma,Single,0,Owned,High
+45.0,Female,115000.0,Bachelor's Degree,Married,3,Owned,High
+50.0,Male,162500.0,Master's Degree,Married,0,Owned,High
+26.0,Female,50000.0,Associate's Degree,Single,0,Rented,Average
+31.0,Male,70000.0,Bachelor's Degree,Single,0,Rented,Average
+36.0,Female,95000.0,Master's Degree,Married,2,Owned,High
+41.0,Male,120000.0,Doctorate,Single,0,Owned,High
+46.0,Female,102500.0,High School Diploma,Married,1,Owned,High
+51.0,Male,150000.0,Bachelor's Degree,Married,0,Owned,High
+27.0,Female,37500.0,High School Diploma,Single,0,Rented,Low
+32.0,Male,57500.0,Associate's Degree,Single,0,Rented,Average
+37.0,Female,77500.0,Bachelor's Degree,Married,2,Owned,High
+42.0,Male,110000.0,Master's Degree,Single,0,Owned,High
+47.0,Female,97500.0,Doctorate,Married,1,Owned,High
+52.0,Male,137500.0,High School Diploma,Married,0,Owned,High
+28.0,Female,32500.0,Associate's Degree,Single,0,Rented,Low
+33.0,Male,52500.0,High School Diploma,Single,0,Rented,Average
+38.0,Female,67500.0,Bachelor's Degree,Married,2,Owned,High
+43.0,Male,95000.0,Master's Degree,Single,0,Owned,High
+48.0,Female,87500.0,Doctorate,Married,1,Owned,High
+53.0,Male,127500.0,Associate's Degree,Married,0,Owned,High
+29.0,Female,27500.0,High School Diploma,Single,0,Rented,Low
+34.0,Male,47500.0,Associate's Degree,Single,0,Rented,Average
+39.0,Female,62500.0,Bachelor's Degree,Married,2,Owned,High
+44.0,Male,87500.0,Master's Degree,Single,0,Owned,High
+49.0,Female,77500.0,Doctorate,Married,1,Owned,High
+25.0,Female,57500.0,Bachelor's Degree,Single,0,Rented,Average
+30.0,Male,112500.0,Master's Degree,Married,2,Owned,High
+35.0,Female,85000.0,Doctorate,Married,1,Owned,High
+25.0,Female,60000.0,Bachelor's Degree,Single,0,Rented,Average
+30.0,Male,117500.0,Master's Degree,Married,2,Owned,High
+35.0,Female,90000.0,Doctorate,Married,1,Owned,High
+28.0,Male,75000.0,Bachelor's Degree,Single,0,Rented,Average
+33.0,Female,82000.0,Master's Degree,Married,1,Owned,High
+31.0,Male,95000.0,Doctorate,Single,0,Rented,High
+26.0,Female,55000.0,Bachelor's Degree,Married,1,Owned,Average
+32.0,Male,85000.0,Master's Degree,Single,0,Rented,High
+29.0,Female,68000.0,Doctorate,Married,2,Owned,Average
+34.0,Male,105000.0,Bachelor's Degree,Married,1,Rented,High
+25.0,Female,55000.0,Bachelor's Degree,Single,0,Rented,Average
+30.0,Male,105000.0,Master's Degree,Married,2,Owned,High
+35.0,Female,80000.0,Doctorate,Married,1,Owned,High
+40.0,Male,130000.0,High School Diploma,Single,0,Owned,High
+45.0,Female,105000.0,Bachelor's Degree,Married,3,Owned,High
+50.0,Male,155000.0,Master's Degree,Married,0,Owned,High
+26.0,Female,45000.0,Associate's Degree,Single,0,Rented,Average
+31.0,Male,65000.0,Bachelor's Degree,Single,0,Rented,Average
+36.0,Female,85000.0,Master's Degree,Married,2,Owned,High
+28.0,Female,32500.0,Associate's Degree,Single,0,Rented,Low
+33.0,Male,52500.0,High School Diploma,Single,0,Rented,Average
+38.0,Female,67500.0,Bachelor's Degree,Married,2,Owned,High
+43.0,Male,92500.0,Master's Degree,Single,0,Owned,High
+48.0,Female,82500.0,Doctorate,Married,1,Owned,High
+53.0,Male,122500.0,Associate's Degree,Married,0,Owned,High
+29.0,Female,27500.0,High School Diploma,Single,0,Rented,Low
+34.0,Male,47500.0,Associate's Degree,Single,0,Rented,Average
+39.0,Female,62500.0,Bachelor's Degree,Married,2,Owned,High
+44.0,Male,87500.0,Master's Degree,Single,0,Owned,High
+49.0,Female,77500.0,Doctorate,Married,1,Owned,High
